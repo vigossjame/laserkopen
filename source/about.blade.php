@@ -1,16 +1,18 @@
 @extends('_layouts.master')
 
-@section('title', 'About')
+@section('title', 'De beste laserpen voor de klant')
 
 @section('content')
-    <h1>About</h1>
+    <h1>De beste laserpen voor de klant</h1>
 
-    <p>My name is {{ $page->owner->name }}</p>
-
-    <h2>Links:</h2>
-
-    <ul>
-        <li><a href="/twitter" target="_blank">Twitter</a></li>
-        <li><a href="/github" target="_blank">GitHub</a></li>
-    </ul>
+<p>De uitdaging ontstaat wanneer een klant niet nodig om een volle haspel te gebruiken en moet snijden en waterdichte verbindingen. De speciale waterdichte laser assemblage hier afgebeeld heeft zes inch krachtige laserpen en 20 voet kabel. Wat begon als een vervelend, duur, tijdrovend karwei, is geëindigd in een eenvoudige plug and play operatie voor het productieteam. Bij meerdere optische experimenten wordt de laserpen alleen in de praktijk gebruikt.</p>
+<p>Maar wat als u een langere of kortere lengte, verschillende kleurtemperatuur of 24VDC-ingangsspanning nodig hebt? Voor deze krachtige laserpennen kunnen we dat allemaal voor u realiseren in een relatief korte productietijd. De lijst met aanpasbare laserproducten eindigt niet met de twee hierboven genoemde. Ik kijk ernaar uit om u te dienen! In voldoende mate kunnen we dat 'bijna' veranderen in 'perfect' en die diepe zucht van opluchting.</p>
+<p>Niet hetzelfde als veelgebruikte blauwe, rode of groene lasers, de straal die uit laserpen straalt is niet zo zichtbaar en helder dan verwacht. Meestal is het veel geschikt voor optische experimenten op kortere afstand. Wanneer de blauwviolette laserstraal is gericht op witte kleur grondstof, kan deze laser tool gewoon super prachtige fluorescentie effect te verkrijgen. Deze industriële laserpen neemt altijd verschillende grootte laserbuis. Gewoonlijk, 26mm diameter laserbuis is werkbaar voor hoog aangedreven laser tool.</p>
+<p>Om de laserpen meer werkbaar te maken in die van optische experimenten, heeft het zojuist externe DC-ingangsvoeding-configuratie aangenomen. Volgens geselecteerde uitgangsvermogen moet het worden uitgerust met een geschikte voedingsspanning gelijkstroom met bedrijfsspanning tussen 3V tot 5V. nadat gebruikers de geschikte aanpassing van richtrichting van de dwarslijn hebben gemaakt, zal deze laserpen de beste twee loodrechte lijnen op alle werkoppervlakken efficiënt en succesvol beginnen te maken.</p>
+<p>De hogere uitgangsvermogen gebruikers hebben geselecteerd, gebruikers kunnen gewoon nog helderder en zichtbaar kruislijnen in werking te verkrijgen. Tegelijkertijd kan de optische nauwkeurigheid zwakker worden terwijl de laserpen werkt onder werkomgevingen met hoge helderheid. Wanneer gebruikers nauwkeurig optisch experimenteren met deze industriële laser, moeten gebruikers altijd voorzichtig genoeg zijn met krachtige laserstraling. Het is nooit toegestaan om richtingslaserstraling en laserreflectie aan menselijke ogen te maken.</p>
+<p>Een van de belangrijkste dingen om te zoeken in een laserpen leverancier is hoe up-front een verkoper is met u en wat ze zullen doen. Met ons begin in 2004, zijn we nog steeds hier en hier om te blijven. En mocht een product als dit falen, zolang u de juiste installatieprocedures hebt gevolgd en een hoogwaardige, gereguleerde stroombron hebt gebruikt, staan wij achter uw garantieperiode. Wij willen dat u vele jaren van service geniet van de laserpennen die u bij ons koopt en willen u als tevreden klant houden.</p>
+<p><em>Veel elektriciens kunnen deze laserproducten verkrijgen bij het lokale bevoorradingshuis, waardoor u oodles bespaart op verzendkosten. Waarom? Simpelweg omdat het voor u veel voordeliger is om uw elektriciteitscentrale in het veld te bouwen en de hoge kosten van 'transporten van gevaarlijke goederen'te vermijden. Deze laserpen is altijd in staat om werknemers de meest stabiele en betrouwbare straalprojectie te brengen omdat het perfect is ontworpen en vervaardigd om het toepasbaar te maken in meerdere werkvelden met succes.</em></p>
+<p>Vergeet niet dat het stroomverbruik uw elektriciteitsrekening niet meer zal beïnvloeden. En we laten je niet in het donker over hoeveel armaturen van welke grootte je nodig hebt om de laser taak te volbrengen. Mocht u vragen hebben, dan staat onze technische verkoopmedewerkers klaar om u te helpen. Als gevolg daarvan is het uiterst strikt om zijn hoge stabiliteit in werking te houden. Voor kleinere projecten of andere soorten verlichtingsbehoeften, zie hier al onze krachtige laserpennen.</p>
+<p><strong>Bij de installatie van de op batterijen werkende laserverlichting moeten wij ons altijd bezighouden met laadcycli. Deze Product engineer begrijpt dat en ontwierp bescherming in de laserpen. Deze laserpen geeft je al het licht dat je nodig hebt op een fractie van de huidige draw. Er zijn slechts ongeveer een dozijn van deze bij de hand, dus neem een kijkje nu als deze laser verlichting is van belang voor u.</strong></p>
+<p>Deze groene laserpen is niet hetzelfde als een veelgebruikte laserpen, maar gewoon speciaal ontworpen als een industrieel experiment tool. Deze geavanceerde laserpen heeft de meest geavanceerde industriële laserapparaten productiemethode toegepast, die alleen beschikbaar is met hoge prestaties in verschillende industriële experimenten. Onze standaard marge op deze items moet laag zijn om deze kwaliteit goederen aan te bieden aan u tegen een prijs die de markt zal dragen.</p>
 @endsection
