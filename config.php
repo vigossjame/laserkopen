@@ -4,8 +4,8 @@ return [
     'production' => false,
     'baseUrl' => 'https://artisanstatic.netlify.app',
     'site' => [
-        'title' => 'My Jigsaw Blog',
-        'description' => 'Personal blog of John Doe.',
+        'title' => 'Laserpennen online',
+        'description' => 'lasertechnologie',
         'image' => 'default-share.png',
     ],
     'owner' => [
